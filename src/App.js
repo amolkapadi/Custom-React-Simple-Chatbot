@@ -16,13 +16,7 @@ const theme = {
   userFontColor: '#4a4a4a',
 };
 function App() {
-  // Custom style for the chatbot
-  const customStyle = {
-    // Change the background color
-    background: 'red',
-    // Change the font color
-    fontFamily: 'Arial, sans-serif',
-  };
+
 
   // Custom steps for the chatbot
   const steps = [
