@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![Add a heading (2)](https://github.com/amolkapadi/Custom-React-Simple-Chatbot/assets/72144987/76fb5cd8-7897-459e-b10b-57d3b3df1cf3)
 
 In the project directory, you can run:
 
